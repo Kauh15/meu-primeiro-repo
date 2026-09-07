@@ -228,6 +228,9 @@ nav a:hover::after {
     width: 100%;
 
 }
+.contato {
+    align-items: center;
+}
 
 
 /* =========================================================
